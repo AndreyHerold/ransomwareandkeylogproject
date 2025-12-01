@@ -1,0 +1,7 @@
+O processo permanece ativo discretamente enquanto o sistema está sendo utilizado.
+
+Cada vez que o usuário pressiona uma tecla, o software registra essa interação.
+
+As informações capturadas são armazenadas em um arquivo de texto.
+
+Esse arquivo reúne, em ordem contínua, todos os caracteres que foram digitados.
